@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WhitePixelStudio-ExamProject"
+    }
+  },
+  "defaultProject": "WhitePixelStudio-ExamProject",
+  "cli": {
+    "analytics": "a7432afc-0f7a-4cd2-b47d-71663a5ad1ac"
+  }
 }

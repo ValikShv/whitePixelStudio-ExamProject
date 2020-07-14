@@ -1,4 +1,9 @@
 import { Component } from '@angular/core';
+// import {} from '';
+export interface Info {
+  name: string
+  main: string
+}
 
 @Component({
   selector: 'app-root',
